@@ -14,3 +14,7 @@ updated w1d3
 updated w1d4
 - lists
 - tuples
+
+June 9th
+on week2 day 1
+- lists and dictionaries
