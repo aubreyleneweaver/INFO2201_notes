@@ -18,3 +18,8 @@ updated w1d4
 June 9th
 on week2 day 1
 - lists and dictionaries
+
+updated w2d1
+- updating variables
+- for loops
+- while loops
