@@ -10,3 +10,7 @@ updated w1d3
 - logical operators
 - booleans
 - inputs
+
+updated w1d4
+- lists
+- tuples
