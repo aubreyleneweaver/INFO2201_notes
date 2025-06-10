@@ -23,3 +23,8 @@ updated w2d1
 - updating variables
 - for loops
 - while loops
+
+June 10th
+
+updated w2d2
+- loops with dictionaries, strings, and nested loops
