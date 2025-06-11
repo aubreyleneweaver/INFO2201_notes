@@ -24,6 +24,12 @@ updated w2d1
 - for loops
 - while loops
 
+June 11th
+updated w2d2
+- random numbers
+- built-in functions
+- args
+
 June 10th
 
 updated w2d2
