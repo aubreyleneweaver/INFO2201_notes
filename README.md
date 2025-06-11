@@ -28,3 +28,6 @@ June 10th
 
 updated w2d2
 - loops with dictionaries, strings, and nested loops
+
+started functions w2d2
+- functions
