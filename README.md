@@ -37,3 +37,5 @@ updated w2d2
 
 started functions w2d2
 - functions
+updated w2d3
+- classes
