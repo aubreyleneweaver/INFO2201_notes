@@ -39,3 +39,7 @@ started functions w2d2
 - functions
 updated w2d3
 - classes
+
+June 16th
+- Created w3d1 and created .txt files
+
