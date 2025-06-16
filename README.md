@@ -43,3 +43,9 @@ updated w2d3
 June 16th
 - Created w3d1 and created .txt files
 
+updated w3d1
+- Files
+- OS package
+- Regular Expressions (re)
+- Metacharacters
+
