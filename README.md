@@ -49,3 +49,11 @@ updated w3d1
 - Regular Expressions (re)
 - Metacharacters
 
+June 17th
+
+Uploading files for w3d2
+data and worksheet
+
+updated w3d2
+- CSV Files
+- JSON Files
