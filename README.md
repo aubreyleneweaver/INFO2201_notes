@@ -67,3 +67,15 @@ June 23rd
 
 created w4d1
 - numpy
+
+updated w4d1
+- NumPy ndarray
+- Creating ndarrays
+- Data Types for ndarrays
+- Arithmetic with NumPy Arrays
+- Indexing and Slicing
+- Multidimensional Array
+- Multidimension Indexing
+- 2D slicing
+- Transposing Arrays and Swapping Axes
+- Universal Functions
