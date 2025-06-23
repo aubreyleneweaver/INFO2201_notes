@@ -57,3 +57,13 @@ data and worksheet
 updated w3d2
 - CSV Files
 - JSON Files
+
+June 18th
+
+updated w3d3
+Summary Activity
+
+June 23rd
+
+created w4d1
+- numpy
