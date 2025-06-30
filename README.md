@@ -79,3 +79,9 @@ updated w4d1
 - 2D slicing
 - Transposing Arrays and Swapping Axes
 - Universal Functions
+
+
+
+June 30th
+
+- created w5d1
