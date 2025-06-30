@@ -85,3 +85,9 @@ updated w4d1
 June 30th
 
 - created w5d1
+
+updated w5d1
+- pandas
+- NaN & empty data
+- .csv files
+- .json files
