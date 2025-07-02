@@ -80,6 +80,19 @@ updated w4d1
 - Transposing Arrays and Swapping Axes
 - Universal Functions
 
+June 24th
+
+updated w4d2
+- APIs
+- import requests
+- PokeApi
+- national park service API
+- Making functions
+
+June 25th
+
+created w4d3
+
 
 
 June 30th
