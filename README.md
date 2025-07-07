@@ -104,3 +104,15 @@ updated w5d1
 - NaN & empty data
 - .csv files
 - .json files
+
+July 1st
+
+
+July 2nd
+
+updated w5d3
+- Wikifunctions
+- Static Web Pages
+- Pandas's read_html
+
+July 7th
