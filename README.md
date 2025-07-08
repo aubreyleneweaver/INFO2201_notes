@@ -116,3 +116,14 @@ updated w5d3
 - Pandas's read_html
 
 July 7th
+
+updated w6d1
+- EDA
+- Data Cleaning
+- Checking for duplicates
+- Value consistancy
+- Univariate analysis
+- .plot()
+- .apply()
+- .cut()
+- Save the data (.to_csv(), to_excel(), pickle)
