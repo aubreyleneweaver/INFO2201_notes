@@ -127,3 +127,10 @@ updated w6d1
 - .apply()
 - .cut()
 - Save the data (.to_csv(), to_excel(), pickle)
+
+July 8th
+
+updated w6d2
+- Bivariate Analysis
+- Different types of plots
+- Multivariate Analysis
