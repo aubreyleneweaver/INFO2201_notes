@@ -107,6 +107,7 @@ updated w5d1
 
 July 1st
 
+completed w5d2_CleaningReview with partner (my partner completed in his notes)
 
 July 2nd
 
